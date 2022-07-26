@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on web development.
+- 🌱 I’m currently learning python.
+- 👯 I’m looking to collaborate on real time projects.
+- 🤔 I’m looking for help with internship.
+- 💬 Ask me about C++,C.
+- 📫 How to reach me: jainapoorva40@gmail.com
+- ⚡ Fun fact: I am lazy programmer with crazy ideas.
