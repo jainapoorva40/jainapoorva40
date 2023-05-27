@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about C++,C.
 - 📫 How to reach me: jainapoorva40@gmail.com
 - ⚡ Fun fact: I am lazy programmer with crazy ideas.
--  https://portfolio-bay-ten-15.vercel.app/
+-    https://portfolio-bay-ten-15.vercel.app/
