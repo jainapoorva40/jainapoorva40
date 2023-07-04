@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on web development.
-- 🌱 I’m currently learning python.
+- 🔭 I’m currently working on web development(MERN stack).
+- 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate on real time projects.
 - 🤔 I’m looking for help with internship.
 - 💬 Ask me about C++,C.
